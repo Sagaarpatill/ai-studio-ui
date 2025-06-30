@@ -24,3 +24,10 @@ yarn-error.log*
 
 
 .env
+
+
+
+
+# Backend files (since this is your frontend repo)
+Server/
+Server.zip
