@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/ai-studio-ui/static/js/main.900e8cd2.js",
+    "main.js": "/ai-studio-ui/static/js/main.0242a738.js",
     "index.html": "/ai-studio-ui/index.html",
     "static/media/upload-icon.svg": "/ai-studio-ui/static/media/upload-icon.b4b3181e1114e0a235c8411c2f8c0e52.svg",
-    "main.900e8cd2.js.map": "/ai-studio-ui/static/js/main.900e8cd2.js.map"
+    "main.0242a738.js.map": "/ai-studio-ui/static/js/main.0242a738.js.map"
   },
   "entrypoints": [
-    "static/js/main.900e8cd2.js"
+    "static/js/main.0242a738.js"
   ]
 }
